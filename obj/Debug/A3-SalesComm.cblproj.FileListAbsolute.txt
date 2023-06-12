@@ -1,0 +1,8 @@
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\bin\Debug\A3_SalesComm.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\bin\Debug\A3_SalesComm.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\bin\Debug\A3_SalesComm.A3-SalesComm.idy
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\obj\Debug\A3-SalesComm.cblprojAssemblyReference.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\obj\Debug\A3-SalesComm.cblproj.CoreCompileInputs.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\obj\Debug\A3_SalesComm.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\obj\Debug\A3_SalesComm.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A3-SalesComm\obj\Debug\A3_SalesComm.A3-SalesComm.idy

@@ -1,0 +1,85 @@
+                                                                  Ahmed Butt, Assignment 3
+
+                                 SALES COMMISSION REPORT
+NO.     NAME      SALES     MIN      MAX    RATE     EARNED        PAID     BONUS/NO BONUS---   --------   -------  -------  -------  ------  ----------  ----------  ----------------
+111   JIM        444,000   50,000  100,000  10.50%      68,580  $***68,580  BONUS EARNED
+
+112   BETH       555,000   40,000  125,000  20.50%     152,662  $**125,000  BONUS EARNED
+
+168   CLAIRE     666,000   30,000  150,000  15.50%     159,045  $**150,000  BONUS EARNED
+
+221   TOM         66,000  100,000  300,000  20.00%      13,200  $**100,000  BONUS NOT EARNED
+
+310   SALLY      207,000   90,000  400,000  20.50%      42,435  $***90,000  BONUS NOT EARNED
+
+311   GERRY       17,999    2,000    6,000   5.50%         990  $****2,000  BONUS NOT EARNED
+
+390   CINDY       33,751    1,000    2,000  19.50%       6,581  $****6,581  BONUS NOT EARNED
+
+445   SAMMY       55,000   13,000   15,000  10.50%       5,775  $***13,000  BONUS NOT EARNED
+
+492   HARVEY     995,001      500      750  17.00%     275,137  $******750  BONUS EARNED
+
+523   PHIL       205,002      999    2,000  19.50%      39,975  $***39,975  BONUS NOT EARNED
+
+
+
+                                                                  Ahmed Butt, Assignment 3
+                                 SALES COMMISSION REPORT
+NO.     NAME      SALES     MIN      MAX    RATE     EARNED        PAID     BONUS/NO BONUS---   --------   -------  -------  -------  ------  ----------  ----------  ----------------
+600   WILLIAM     99,003      075      950   8.50%       8,415  $****8,415  BONUS NOT EARNED
+
+617   WANDA       99,006      800    1,000   8.00%       7,920  $****7,920  BONUS NOT EARNED
+
+684   GEORGE      84,564   10,000   20,000   7.50%       6,342  $***10,000  BONUS NOT EARNED
+
+698   IRVING      24,567      300      900   7.00%       1,720  $****1,720  BONUS NOT EARNED
+
+700   ROSEMARY       999      075      200  29.50%         295  $******295  BONUS NOT EARNED
+
+715   LARRY        9,999    9,750   19,750   5.50%         550  $****9,750  BONUS NOT EARNED
+
+753   RONNIE     999,999   99,999  999,999  99.90%   1,105,748  $**999,999  BONUS EARNED
+
+776   MARK       994,999      401      900   8.00%     185,586  $******900  BONUS EARNED
+
+811   ERIC       994,998      300      400   9.00%     195,536  $******400  BONUS EARNED
+
+818   BOB              2      010      900  49.50%           1  $*******10  BONUS NOT EARNED
+
+
+
+                                                                  Ahmed Butt, Assignment 3
+                                 SALES COMMISSION REPORT
+NO.     NAME      SALES     MIN      MAX    RATE     EARNED        PAID     BONUS/NO BONUS---   --------   -------  -------  -------  ------  ----------  ----------  ----------------
+852   FRANKIE     99,999      001    1,000   1.50%       1,500  $****1,500  BONUS NOT EARNED
+
+875   DAVID       88,888      080      800   8.50%       7,555  $****7,555  BONUS NOT EARNED
+
+966   MARIO       75,997   20,000   30,000  23.50%      17,859  $***20,000  BONUS NOT EARNED
+
+972   NANCY      765,432  200,000  400,000  22.50%     243,200  $**243,200  BONUS EARNED
+
+991   WAYNE      115,998      999    2,000  23.00%      26,680  $***26,680  BONUS NOT EARNED
+
+994   CHRIS      275,000   60,000   80,000  17.00%      46,750  $***60,000  BONUS NOT EARNED
+
+
+                                            Totals  $2,007,687  $1,901,292
+
+NUMBER WITH BONUS MORE THAN MAX         6
+NUMBER WITH NO BONUS LESS THAN MIN      9
+
+
+
+NUMBER OF SALESPEOPLE WITH BONUS        8
+NUMBER OF SALESPEOPLE WITHOUT BONUS    18
+NUMBER OF SALESPEOPLE                  26
+
+
+
+NUMBER  WITH PAID EQUAL EARNED         11
+PERCENT WITH PAID EQUAL EARNED         42.31%
+
+PERCENT WITH BONUS     >300,000        30.77%
+PERCENT WITHOUT BONUS <=300,000        69.23%
